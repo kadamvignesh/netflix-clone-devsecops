@@ -1,4 +1,14 @@
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(161).png?raw=true)
 
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(154).png?raw=true)
+
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(156).png?raw=true)
+
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(157).png?raw=true)
+
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(160).png?raw=true)
+
+![img alt](https://github.com/kadamvignesh/netflix-clone-devsecops/blob/main/Screenshot%20(165).png?raw=true)
 
 
 
